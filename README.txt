@@ -10,7 +10,7 @@ Some information:
          4 ... renormalization scale down  (Rdown)
 
 
-      by definition, Qup and Qdown don't change the total cross section. Rup and Rdown do. So, if you want to estimate just the acceptance uncertainty, you have to normalized with these values.
+      by definition, Qup and Qdown don't change the total cross section. Rup and Rdown do. So, if you want to estimate just the acceptance uncertainty, you have to normalize with values in norm[].
 
    2. total[E,index] has the WW pT differential distribution following the same convention as above.
    
